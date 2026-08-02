@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Olanrewaju Michael Ayewa! 👋 🛰️
 
-<!--
-**Mykemccoy/Mykemccoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **Agricultural & Water Resource Engineer** bridging the gap between computational data science, satellite remote sensing, and applied hydrogeology. My work focuses on building dynamic spatial frameworks to solve complex environmental challenges—from basin-scale groundwater monitoring to flood risk mapping.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 What I'm Focused On
+- 💧 **Spatial Machine Learning & Groundwater Downscaling:** Developing high-resolution (1 km) ML pipelines using **Google Earth Engine (GEE)** and **GRACE/GRACE-FO** data to map terrestrial water storage anomalies.
+- 🌊 **Hydrological & Catchment Modeling:** Simulating complex aquifer dynamics, unstructured flow grids, and river hydraulics using **MODFLOW 6**, **ModelMuse**, and **HEC-RAS**.
+- 🛰️ **Earth Observation & Remote Sensing:** Leveraging multi-spectral satellite datasets (Landsat, Sentinel) for land-use cover transition mapping, surface water monitoring, and flood hazard assessments.
+
+---
+
+### 🧰 Tech & Tools Toolbox
+
+```text
+Languages & Data:   Python | SQL | LATEX
+Geospatial & Remote Sensing: Google Earth Engine (GEE) | QGIS | ArcGIS | NASA Earthdata | SAR
+Modeling & Simulation:   MODFLOW 6 / ModelMuse | HEC-RAS | Hydrological Data Pipelines
+Machine Learning & Analytics:  Random Forest | Spatial Statistics | Time-Series Analysis | Pandas / NumPy
