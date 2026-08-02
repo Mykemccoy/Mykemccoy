@@ -1,6 +1,6 @@
 # Hi there, I'm Olanrewaju Michael Ayewa! 👋 🛰️
 
-I’m an **Agricultural & Water Resource Engineer** bridging the gap between computational data science, satellite remote sensing, and applied hydrogeology. My work focuses on building dynamic spatial frameworks to solve complex environmental challenges—from basin-scale groundwater monitoring to flood risk mapping.
+I’m an **Agricultural & Water Resource Engineer** bridging the gap between computational data science, satellite remote sensing, and applied hydrogeology. My work focuses on building dynamic spatial frameworks to solve complex environmental challenges—from basin-scale hydrological modeling to environmental disaster assessment.
 
 ---
 
