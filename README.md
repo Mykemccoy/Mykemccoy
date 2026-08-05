@@ -9,7 +9,7 @@ I’m an **Agricultural & Water Resource Researcher** bridging the gap between c
 - 🌊 **Hydrological & Catchment Modeling:** Simulating complex aquifer dynamics, unstructured flow grids, and river hydraulics using **MODFLOW 6**, **ModelMuse**, and **HEC-RAS**.
 - 🛰️ **Earth Observation & Remote Sensing:** Leveraging multi-spectral satellite datasets (Landsat, Sentinel) for land-use cover transition mapping, surface water monitoring, and flood hazard assessments.
 
----
+----
 
 ### 🧰 Tech & Tools Toolbox
 
