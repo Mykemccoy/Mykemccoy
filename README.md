@@ -14,7 +14,7 @@ I’m an **Agricultural & Water Resource Researcher** bridging the gap between c
 ### 🧰 Tech & Tools Toolbox
 
 ```text
-Languages & Data:   Python | SQL | LATEX
-Geospatial & Remote Sensing: Google Earth Engine (GEE) | QGIS | ArcGIS | NASA Earthdata | SAR
-Modeling & Simulation:   MODFLOW 6 / ModelMuse | HEC-RAS | Hydrological Data Pipelines
-Machine Learning & Analytics:  Random Forest | Spatial Statistics | Time-Series Analysis | Pandas / NumPy
+Languages & Data:   Python | SQL | LATEX | JavaScript
+Geospatial & Remote Sensing: Google Earth Engine (GEE) | QGIS | ArcGIS | NASA Earthdata | SAR 
+Modeling & Simulation:   MODFLOW 6 / ModelMuse | HEC-RAS | Hydrological Data Pipelines | SWMM | EPANET
+Deep Learning, Machine Learning & Analytics:  CNN| KNN | Random Forest | Spatial Statistics | Time-Series Analysis | Pandas / NumPy
